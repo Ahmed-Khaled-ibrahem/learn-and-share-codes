@@ -37,3 +37,15 @@ void loop() {
     delay(300);
   }
 }
+
+
+// Display pin	ESP32 pin
+// VCC	3.3V
+// GND	GND
+// CS	GPIO 15
+// RESET	GPIO 4
+// DC / RS	GPIO 2
+// SDI (MOSI)	GPIO 23
+// SCK	GPIO 18
+// LED	3.3V
+// SDO (MISO)	GPIO 19 (optional)
